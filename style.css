@@ -1,0 +1,17 @@
+html {
+	background:#f4a742;
+}
+body {
+	margin: 0;
+}
+
+h1 {
+	font-family: helvetica, sans-serif;
+	letter-spacing: 1rem;
+	font-weight:100;
+	text-align: center;
+}
+
+img {
+	width:100%;
+}
